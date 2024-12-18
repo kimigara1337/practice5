@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "Austria",
+        "minKills": 17,
+        "avgKills": 17.0,
+        "maxKills": 17
+    },
+    {
+        "_id": "Italy",
+        "minKills": 7,
+        "avgKills": 7.0,
+        "maxKills": 7
+    },
+    {
+        "_id": "Dust II",
+        "minKills": 0,
+        "avgKills": 14.714808043875685,
+        "maxKills": 34
+    },
+    {
+        "_id": "Cobblestone",
+        "minKills": 3,
+        "avgKills": 15.083333333333334,
+        "maxKills": 27
+    },
+    {
+        "_id": "Inferno",
+        "minKills": 0,
+        "avgKills": 14.06060606060606,
+        "maxKills": 31
+    },
+    {
+        "_id": "Overpass",
+        "minKills": 7,
+        "avgKills": 13.0,
+        "maxKills": 19
+    },
+    {
+        "_id": "Cache",
+        "minKills": 0,
+        "avgKills": 14.542372881355933,
+        "maxKills": 36
+    },
+    {
+        "_id": "Nuke",
+        "minKills": 4,
+        "avgKills": 9.25,
+        "maxKills": 14
+    },
+    {
+        "_id": "Mirage",
+        "minKills": 0,
+        "avgKills": 15.077134986225895,
+        "maxKills": 36
+    },
+    {
+        "_id": "Canals",
+        "minKills": 15,
+        "avgKills": 15.0,
+        "maxKills": 15
+    }
+]

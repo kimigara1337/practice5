@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "Cache",
+        "minHS": 0.0,
+        "avgHS": 23.610169491525422,
+        "maxHS": 55.0
+    },
+    {
+        "_id": "Dust II",
+        "minHS": 0.0,
+        "avgHS": 25.69652650822669,
+        "maxHS": 100.0
+    },
+    {
+        "_id": "Overpass",
+        "minHS": 8.0,
+        "avgHS": 20.923076923076923,
+        "maxHS": 46.0
+    },
+    {
+        "_id": "Cobblestone",
+        "minHS": 5.0,
+        "avgHS": 19.0,
+        "maxHS": 33.0
+    },
+    {
+        "_id": "Inferno",
+        "minHS": 0.0,
+        "avgHS": 26.916666666666668,
+        "maxHS": 71.0
+    },
+    {
+        "_id": "Mirage",
+        "minHS": 0.0,
+        "avgHS": 23.41322314049587,
+        "maxHS": 100.0
+    }
+]

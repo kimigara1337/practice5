@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "Cache",
+        "minDeaths": 5,
+        "avgDeaths": 16.728813559322035,
+        "maxDeaths": 24
+    },
+    {
+        "_id": "Dust II",
+        "minDeaths": 0,
+        "avgDeaths": 17.117001828153565,
+        "maxDeaths": 26
+    },
+    {
+        "_id": "Overpass",
+        "minDeaths": 8,
+        "avgDeaths": 16.23076923076923,
+        "maxDeaths": 21
+    },
+    {
+        "_id": "Cobblestone",
+        "minDeaths": 7,
+        "avgDeaths": 17.083333333333332,
+        "maxDeaths": 23
+    },
+    {
+        "_id": "Inferno",
+        "minDeaths": 1,
+        "avgDeaths": 16.575757575757574,
+        "maxDeaths": 25
+    },
+    {
+        "_id": "Mirage",
+        "minDeaths": 3,
+        "avgDeaths": 17.12121212121212,
+        "maxDeaths": 27
+    }
+]

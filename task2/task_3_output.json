@@ -1,0 +1,407 @@
+{
+    "Семана": {
+        "min_salary": 73952,
+        "avg_salary": 125111.22222222222,
+        "max_salary": 179522
+    },
+    "Валенсия": {
+        "min_salary": 31082,
+        "avg_salary": 87606.28571428571,
+        "max_salary": 159504
+    },
+    "Санхенхо": {
+        "min_salary": 26679,
+        "avg_salary": 113311.42857142857,
+        "max_salary": 186822
+    },
+    "Ташкент": {
+        "min_salary": 42308,
+        "avg_salary": 86088.0,
+        "max_salary": 136502
+    },
+    "Эльче": {
+        "min_salary": 42769,
+        "avg_salary": 88971.5,
+        "max_salary": 135174
+    },
+    "Малага": {
+        "min_salary": 44763,
+        "avg_salary": 86731.42857142857,
+        "max_salary": 181171
+    },
+    "Куэнка": {
+        "min_salary": 86507,
+        "avg_salary": 109078.66666666667,
+        "max_salary": 149428
+    },
+    "Бургос": {
+        "min_salary": 77028,
+        "avg_salary": 128401.28571428571,
+        "max_salary": 191286
+    },
+    "Вроцлав": {
+        "min_salary": 21872,
+        "avg_salary": 62231.42857142857,
+        "max_salary": 109016
+    },
+    "Сеговия": {
+        "min_salary": 27535,
+        "avg_salary": 96382.66666666667,
+        "max_salary": 158698
+    },
+    "Вильнюс": {
+        "min_salary": 94003,
+        "avg_salary": 157468.25,
+        "max_salary": 194929
+    },
+    "Бланес": {
+        "min_salary": 26590,
+        "avg_salary": 111149.71428571429,
+        "max_salary": 166303
+    },
+    "Монсон": {
+        "min_salary": 169047,
+        "avg_salary": 177856.33333333334,
+        "max_salary": 183264
+    },
+    "Белград": {
+        "min_salary": 20744,
+        "avg_salary": 83998.66666666667,
+        "max_salary": 161538
+    },
+    "Вильявисиоса": {
+        "min_salary": 21605,
+        "avg_salary": 106209.0,
+        "max_salary": 194081
+    },
+    "Сория": {
+        "min_salary": 39134,
+        "avg_salary": 124754.4,
+        "max_salary": 184614
+    },
+    "Таллин": {
+        "min_salary": 34923,
+        "avg_salary": 125916.71428571429,
+        "max_salary": 195193
+    },
+    "Картахена": {
+        "min_salary": 30828,
+        "avg_salary": 104712.0,
+        "max_salary": 198145
+    },
+    "Кадакес": {
+        "min_salary": 72457,
+        "avg_salary": 127154.14285714286,
+        "max_salary": 180185
+    },
+    "Трухильо": {
+        "min_salary": 23145,
+        "avg_salary": 75427.25,
+        "max_salary": 136688
+    },
+    "Бишкек": {
+        "min_salary": 41347,
+        "avg_salary": 129468.0,
+        "max_salary": 196550
+    },
+    "Краков": {
+        "min_salary": 60270,
+        "avg_salary": 113218.8,
+        "max_salary": 180606
+    },
+    "Душанбе": {
+        "min_salary": 22990,
+        "avg_salary": 89580.375,
+        "max_salary": 165420
+    },
+    "Сараево": {
+        "min_salary": 23866,
+        "avg_salary": 137863.83333333334,
+        "max_salary": 194400
+    },
+    "Овьедо": {
+        "min_salary": 64244,
+        "avg_salary": 124208.5,
+        "max_salary": 184261
+    },
+    "Луго": {
+        "min_salary": 55521,
+        "avg_salary": 110972.375,
+        "max_salary": 195614
+    },
+    "Прага": {
+        "min_salary": 22011,
+        "avg_salary": 72882.0,
+        "max_salary": 123753
+    },
+    "Любляна": {
+        "min_salary": 36929,
+        "avg_salary": 101176.5,
+        "max_salary": 189373
+    },
+    "Аликанте": {
+        "min_salary": 95895,
+        "avg_salary": 131691.125,
+        "max_salary": 157097
+    },
+    "Хихон": {
+        "min_salary": 47421,
+        "avg_salary": 129230.0,
+        "max_salary": 189271
+    },
+    "Авилес": {
+        "min_salary": 43837,
+        "avg_salary": 114414.5,
+        "max_salary": 177733
+    },
+    "Виго": {
+        "min_salary": 41963,
+        "avg_salary": 74420.83333333333,
+        "max_salary": 198943
+    },
+    "Подгорица": {
+        "min_salary": 37471,
+        "avg_salary": 110857.66666666667,
+        "max_salary": 198513
+    },
+    "Сьюдад-Реаль": {
+        "min_salary": 25072,
+        "avg_salary": 100706.66666666667,
+        "max_salary": 195437
+    },
+    "Кишинев": {
+        "min_salary": 48420,
+        "avg_salary": 100918.8,
+        "max_salary": 173484
+    },
+    "Мурсия": {
+        "min_salary": 46701,
+        "avg_salary": 108008.66666666667,
+        "max_salary": 182791
+    },
+    "Минск": {
+        "min_salary": 36139,
+        "avg_salary": 113019.0,
+        "max_salary": 186465
+    },
+    "София": {
+        "min_salary": 105640,
+        "avg_salary": 146842.5,
+        "max_salary": 169468
+    },
+    "Гранада": {
+        "min_salary": 46819,
+        "avg_salary": 136292.875,
+        "max_salary": 199939
+    },
+    "Осера": {
+        "min_salary": 109827,
+        "avg_salary": 145494.55555555556,
+        "max_salary": 197875
+    },
+    "Астана": {
+        "min_salary": 32064,
+        "avg_salary": 91376.0,
+        "max_salary": 175614
+    },
+    "Лас-Росас": {
+        "min_salary": 30515,
+        "avg_salary": 104366.83333333333,
+        "max_salary": 183158
+    },
+    "Фигерас": {
+        "min_salary": 48232,
+        "avg_salary": 102205.5,
+        "max_salary": 165755
+    },
+    "Баку": {
+        "min_salary": 40036,
+        "avg_salary": 128149.875,
+        "max_salary": 178347
+    },
+    "Ла-Корунья": {
+        "min_salary": 61844,
+        "avg_salary": 125501.8,
+        "max_salary": 179978
+    },
+    "Кордова": {
+        "min_salary": 22473,
+        "avg_salary": 129418.5,
+        "max_salary": 194152
+    },
+    "Вальядолид": {
+        "min_salary": 30874,
+        "avg_salary": 104079.75,
+        "max_salary": 195675
+    },
+    "Тарраса": {
+        "min_salary": 29914,
+        "avg_salary": 101539.83333333333,
+        "max_salary": 177677
+    },
+    "Навалькарнеро": {
+        "min_salary": 50778,
+        "avg_salary": 101587.2,
+        "max_salary": 161533
+    },
+    "Хельсинки": {
+        "min_salary": 29721,
+        "avg_salary": 92613.25,
+        "max_salary": 157617
+    },
+    "Мартоса": {
+        "min_salary": 25106,
+        "avg_salary": 75618.16666666667,
+        "max_salary": 111044
+    },
+    "Афины": {
+        "min_salary": 43882,
+        "avg_salary": 91521.4,
+        "max_salary": 168347
+    },
+    "Пласенсия": {
+        "min_salary": 87052,
+        "avg_salary": 133155.66666666666,
+        "max_salary": 177023
+    },
+    "Сан-Себастьян": {
+        "min_salary": 35825,
+        "avg_salary": 136850.2857142857,
+        "max_salary": 185735
+    },
+    "Тбилиси": {
+        "min_salary": 61438,
+        "avg_salary": 130466.125,
+        "max_salary": 193619
+    },
+    "Скопье": {
+        "min_salary": 110945,
+        "avg_salary": 131545.0,
+        "max_salary": 161801
+    },
+    "Будапешт": {
+        "min_salary": 22942,
+        "avg_salary": 131322.125,
+        "max_salary": 189279
+    },
+    "Загреб": {
+        "min_salary": 56795,
+        "avg_salary": 131149.0,
+        "max_salary": 188292
+    },
+    "Луарка": {
+        "min_salary": 36189,
+        "avg_salary": 101685.14285714286,
+        "max_salary": 184980
+    },
+    "Варшава": {
+        "min_salary": 27523,
+        "avg_salary": 54159.666666666664,
+        "max_salary": 100369
+    },
+    "Москва": {
+        "min_salary": 121509,
+        "avg_salary": 158123.0,
+        "max_salary": 190943
+    },
+    "Рига": {
+        "min_salary": 21574,
+        "avg_salary": 109506.5,
+        "max_salary": 193950
+    },
+    "Льейда": {
+        "min_salary": 21623,
+        "avg_salary": 104430.5,
+        "max_salary": 155869
+    },
+    "Барселона": {
+        "min_salary": 27979,
+        "avg_salary": 128803.8,
+        "max_salary": 197144
+    },
+    "Сантьяго-де-Компостела": {
+        "min_salary": 50964,
+        "avg_salary": 131974.7142857143,
+        "max_salary": 198181
+    },
+    "Махадаонда": {
+        "min_salary": 46771,
+        "avg_salary": 71242.25,
+        "max_salary": 99928
+    },
+    "Артейхо": {
+        "min_salary": 34477,
+        "avg_salary": 63905.75,
+        "max_salary": 125042
+    },
+    "Мерида": {
+        "min_salary": 23199,
+        "avg_salary": 100613.66666666667,
+        "max_salary": 173115
+    },
+    "Бильбао": {
+        "min_salary": 32113,
+        "avg_salary": 91801.5,
+        "max_salary": 163965
+    },
+    "Алькала-де-Энарес": {
+        "min_salary": 28874,
+        "avg_salary": 125100.54545454546,
+        "max_salary": 195599
+    },
+    "Севилья": {
+        "min_salary": 23069,
+        "avg_salary": 83887.4,
+        "max_salary": 173102
+    },
+    "Эль-Пуэрто-де-Санта-Мария": {
+        "min_salary": 37733,
+        "avg_salary": 95073.33333333333,
+        "max_salary": 166435
+    },
+    "Ереван": {
+        "min_salary": 21400,
+        "avg_salary": 71544.0,
+        "max_salary": 139152
+    },
+    "Мадрид": {
+        "min_salary": 70225,
+        "avg_salary": 128247.75,
+        "max_salary": 172196
+    },
+    "Алма-Ата": {
+        "min_salary": 21880,
+        "avg_salary": 68362.66666666667,
+        "max_salary": 116408
+    },
+    "Касерес": {
+        "min_salary": 34810,
+        "avg_salary": 107138.625,
+        "max_salary": 183823
+    },
+    "Санкт-Петербург": {
+        "min_salary": 59018,
+        "avg_salary": 108532.66666666667,
+        "max_salary": 143419
+    },
+    "Самора": {
+        "min_salary": 35169,
+        "avg_salary": 118419.57142857143,
+        "max_salary": 188325
+    },
+    "Тирана": {
+        "min_salary": 98199,
+        "avg_salary": 151952.33333333334,
+        "max_salary": 189297
+    },
+    "Камбадос": {
+        "min_salary": 26234,
+        "avg_salary": 95556.125,
+        "max_salary": 197534
+    },
+    "Тудела": {
+        "min_salary": 22843,
+        "avg_salary": 85187.5,
+        "max_salary": 171410
+    }
+}

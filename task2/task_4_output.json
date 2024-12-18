@@ -1,0 +1,82 @@
+{
+    "Архитектор": {
+        "min_salary": 21595,
+        "avg_salary": 113343.78125,
+        "max_salary": 196112
+    },
+    "Оператор call-центра": {
+        "min_salary": 20239,
+        "avg_salary": 106825.69767441861,
+        "max_salary": 199948
+    },
+    "Менеджер": {
+        "min_salary": 23389,
+        "avg_salary": 95536.16129032258,
+        "max_salary": 162929
+    },
+    "Косметолог": {
+        "min_salary": 23270,
+        "avg_salary": 115148.12121212122,
+        "max_salary": 195775
+    },
+    "Бухгалтер": {
+        "min_salary": 22129,
+        "avg_salary": 107223.43478260869,
+        "max_salary": 198623
+    },
+    "Врач": {
+        "min_salary": 33882,
+        "avg_salary": 114137.97297297297,
+        "max_salary": 198188
+    },
+    "Повар": {
+        "min_salary": 26523,
+        "avg_salary": 122777.2564102564,
+        "max_salary": 199005
+    },
+    "Медсестра": {
+        "min_salary": 22029,
+        "avg_salary": 100624.61904761905,
+        "max_salary": 187828
+    },
+    "Инженер": {
+        "min_salary": 21338,
+        "avg_salary": 101507.37735849057,
+        "max_salary": 195768
+    },
+    "Продавец": {
+        "min_salary": 23580,
+        "avg_salary": 116171.19512195123,
+        "max_salary": 196825
+    },
+    "Программист": {
+        "min_salary": 21236,
+        "avg_salary": 105818.11904761905,
+        "max_salary": 195977
+    },
+    "Водитель": {
+        "min_salary": 20561,
+        "avg_salary": 125378.46341463414,
+        "max_salary": 194804
+    },
+    "Учитель": {
+        "min_salary": 20562,
+        "avg_salary": 120518.44444444444,
+        "max_salary": 197590
+    },
+    "IT-специалист": {
+        "min_salary": 26895,
+        "avg_salary": 107871.19047619047,
+        "max_salary": 199862
+    },
+    "Психолог": {
+        "min_salary": 29949,
+        "avg_salary": 107417.28571428571,
+        "max_salary": 189866
+    },
+    "Строитель": {
+        "min_salary": 27605,
+        "avg_salary": 111382.54545454546,
+        "max_salary": 195297
+    }
+}
